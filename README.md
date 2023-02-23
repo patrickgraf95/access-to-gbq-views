@@ -2,7 +2,7 @@
 Documentation on how to grant and revoke access to our GBQ Salesforce Views 
 
 # How Users can request access
-User that need access to the Salesforce Data we store in BigQuery, they are supposed to request that access in the [#ask-ces-data](https://springernature.slack.com/archives/C04RME8NK40) channel by stating who needs access and why they need access.
+User that need access to the Salesforce Data we store in BigQuery are supposed to request that access in the [#ask-ces-data](https://springernature.slack.com/archives/C04RME8NK40) channel by stating who needs access and why they need access.
 
 The channel can also be used by users to notify us if there are any issues regarding the data or whether they need different views created for them.
 
